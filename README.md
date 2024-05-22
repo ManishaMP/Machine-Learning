@@ -1,2 +1,2 @@
 # Machine-Learning
-To learn machine learning concepts
+To learn Basics of machine learning concepts
